@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="SeladangX">
+  <rect width="600" height="320" fill="#0f172a"/>
+  <path d="M224 90h64c28 0 45 12 45 33 0 15-10 26-26 30 21 4 34 17 34 35 0 23-19 37-50 37h-67V90zm37 27v27h23c9 0 15-5 15-13 0-9-6-14-16-14h-22zm0 54v27h27c11 0 17-5 17-14 0-8-6-13-17-13h-27z" fill="#22d3ee"/>
+  <text x="300" y="270" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="34" font-weight="bold" text-anchor="middle">SeladangX</text>
+</svg>

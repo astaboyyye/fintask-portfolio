@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 320" role="img" aria-label="UTP Campus Found">
+  <rect width="600" height="320" fill="#0f172a"/>
+  <circle cx="300" cy="132" r="62" fill="none" stroke="#22d3ee" stroke-width="7"/>
+  <path d="m344 176 42 42" stroke="#22d3ee" stroke-width="10" stroke-linecap="round"/>
+  <text x="300" y="264" fill="#e2e8f0" font-family="Arial, sans-serif" font-size="32" font-weight="bold" text-anchor="middle">UTP Campus Found</text>
+</svg>
